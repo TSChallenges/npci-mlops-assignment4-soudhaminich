@@ -36,8 +36,9 @@ In this task you will version the dataset to ensure reproducibility.
 
 ### 6. Upload Screenshots
 - Take screenshots of each command and its output to show how the data is tracked, added, and pushed to remote storage.
-- Create a folder "Screenshots" and upload the screenshots in it.
+- Create a folder named "Screenshots" in the repository and upload the screenshots.
 
 ## Notes
+- commit the changes in the codespaces to submit your repo.
 - To know more about the data used in this assignment: https://archive.ics.uci.edu/dataset/222/bank+marketing
 - Use dvc status to check the tracking status of your files.
