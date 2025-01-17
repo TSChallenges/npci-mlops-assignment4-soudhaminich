@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = ssh://soudh@npci-sandbox.talentsprint.com:22/home/soudh/dvc_remote_storage
